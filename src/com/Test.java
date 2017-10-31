@@ -9,5 +9,8 @@ public class Test {
 		System.out.println("test git ·ÖÖ§444");
 		System.out.println("20171031");
 		System.out.println("201710311109");
+		
+		User user =new User();
+		user.setUserName("hehe");
 	}
 }
