@@ -39,6 +39,9 @@ public class Test {
 	public static void test6() {
 		System.out.println("test6666666666");
 	}
+	public static void test9() {
+		System.out.println("test9999999999");
+	}
 	public static void test8() {
 		System.out.println("test888888888");
 	}
