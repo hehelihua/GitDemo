@@ -12,5 +12,6 @@ public class Test {
 		
 		User user =new User();
 		user.setUserName("hehe");
+		System.out.println(user.getUserName());
 	}
 }
