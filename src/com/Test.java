@@ -48,4 +48,5 @@ public class Test {
 	public static void test0() {
 		System.out.println("test00000000");
 	}
+	
 }
