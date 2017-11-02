@@ -33,4 +33,7 @@ public class Test {
 	public static void test4() {
 		System.out.println("test4444444444");
 	}
+	public static void test6() {
+		System.out.println("test6666666666");
+	}
 }
