@@ -26,4 +26,9 @@ public class Test {
 	public static void test3() {
 		System.out.println("test3333333333");
 	}
+
+	public static void test4() {
+		System.out.println("test4444444444");
+	}
+	
 }
