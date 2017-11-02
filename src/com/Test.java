@@ -12,6 +12,12 @@ public class Test {
 		
 		User user =new User();
 		user.setUserName("hehe");
+		user.setPassword("123456");
+		System.out.println(user.getUserName()+"\t"+user.getPassword());
 		System.out.println(user.getUserName());
+	}
+	
+	public static void  test1() {
+		System.out.println("test11111111");
 	}
 }
