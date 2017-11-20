@@ -43,10 +43,12 @@ public class Test {
 		System.out.println("test9999999999");
 	}
 	public static void test8() {
-		System.out.println("test888888888");
+		System.out.println("test8888888888");
 	}
 	public static void test0() {
-		System.out.println("test00000000");
+		System.out.println("test0000000000");
 	}
-	
+	public static void test() {
+		System.out.println("test..........");
+	}
 }
