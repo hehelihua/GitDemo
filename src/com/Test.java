@@ -9,10 +9,10 @@ public class Test {
 		System.out.println("linux update");
 		//hhhhhhhhhhhhhhhhhhhhh
 
-		System.out.println("test git 分支111");
-		System.out.println("test git 分支222");
-		System.out.println("test git 分支333");
-		System.out.println("test git 分支444");
+		System.out.println("test git 鍒嗘敮111");
+		System.out.println("test git 鍒嗘敮支222");
+		System.out.println("test git 鍒嗘敮333");
+		System.out.println("test git 鍒嗘敮444");
 		System.out.println("20171031");
 		System.out.println("201710311109");
 
